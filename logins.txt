@@ -1,0 +1,7 @@
+entra no documento pelo cmd e depois colar o comando:
+
+python main.py
+
+Login para entrar: 
+E-mail: demo@edutrack.ai
+Senha: Demo@1234
